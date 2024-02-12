@@ -35,6 +35,10 @@ body{
         to right, #201f1f, #353132,  
         #635f5e, #818080, #a7a6a4);  
         padding: 10px 0;
+    position: fixed;
+    margin-bottom:4px;
+    z-index: 10;
+    
 }
 .navbar{
     width: 100%;
